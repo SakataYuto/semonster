@@ -1,0 +1,6 @@
+.ssh/
+.vscode/
+Main.class
+Monster.class
+Monster.java
+bin/
