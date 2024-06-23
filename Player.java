@@ -1,11 +1,5 @@
-
 import java.util.ArrayList;
 
-/**
- * プレイヤーはモンスターデッキを持つ
- *
- * Deck：MonsterのArrayList
- */
 public class Player {
   ArrayList<Monster> deck = new ArrayList<>();
 
@@ -20,5 +14,4 @@ public class Player {
       System.out.println(m);
     }
   }
-
 }
